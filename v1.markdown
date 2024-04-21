@@ -1,0 +1,77 @@
+<style>@import url("//readme.codeadam.ca/readme.css");</style>
+
+## Version 1 - Initial Production
+
+Completed: September 2023
+
+The initial version of Flow will include a basic login for BrickMMO developers to review tasks, make notes, and mark tasks as complete. Admin can manage tasks, students, and classes. 
+
+![BrickMMO](images/v1-screenshot-flow-tasks.png)
+## Features
+### Q&A
+#### Features Overview
+1. For Students
+- **Dashboard:** A personalized overview of questions and answers.
+- **Community Questions:** Easily add and view questions within the community.
+- **Answering and Voting:** Participate by answering questions and voting on the helpfulness of answers.
+- **Content Management:** Manage personal contributions by deleting questions and answers.
+
+2. For Administrators
+- **Content Oversight:** View, contribute to, and manage all questions and answers.
+- **Moderation:** Ensure the quality and appropriateness of content by deleting any question or answer.
+
+#### Version Documentation
+
+- **v1.markdown:** Initial launch of the Q&A features, including basic functionalities for posting, answering, and moderating questions and answers.
+
+#### Version-1 details
+- Release Date: 
+- Key Features:
+    - Student dashboard
+    - Community question and answer functionality
+    - Voting mechanism
+    - Pagination to enhance navigation
+    - Administrative oversight and moderation tools
+
+### Timesheets
+The new timesheet feature allows students to log their number of hours spent on the BrickMMO tasks every day. This feature includes 
+- a calendar view that shows total hours spent on each day
+- a day view that shows a list of entries with delete function
+- an add entry page
+- an admin dashboard for viewing any students' timesheet
+
+## Related Links
+
+- [BrickMMO Flow](https://flow.brickmmo.com)
+- [Version 1 GitHub Repo](https://github.com/BrickMMO/flow-v1)
+- [Tasks GitHub Repo](https://github.com/BrickMMO/tasks)
+
+## Documents
+
+- [Pitch (Markdown)](v1/system-v1-pitch)
+- [Pitch (PDF)](v1/system-v1-pitch.pdf)
+
+## Contributors
+
+| | Name | Type | Contributions |
+| - | - | - | - |
+| ![codeadamca](faculty/codeadamca.png) | Adam Thomas | Faculty | [codeadamca](https://contributions.brickmmo.com/faculty/codeadamca) |
+|![](images/lovepreet-g.jpg)| Lovepreet Singh | Student | [lovepreet-g](https://contributions.brickmmo.com/students/lovepreet-g)|
+|![](images/saloni.png)|Saloni Pawar| Student |
+|![](images/surbhisinghania13.jpeg)|Surbhi Singhania|Student|[surbhisinghania](https://contributions.brickmmo.com/students/surbhisinghania13)
+|![](images/leonwongdev.jpg)|Lap Wang Wong|Student|[leonwongdev](https://contributions.brickmmo.com/students/leonwongdev)
+||Nhi Nguyen| Student|
+
+## Repository Resources
+- [Markdown Guide](https://daringfireball.net/projects/markdown/)
+- [BrickMMO Website](https://brickmmo.com/)
+- [BrickMMO Flow Website](https://flow.brickmmo.com/)
+- [Q&A Feature Repository](https://github.com/BrickMMO/flow-v1)
+
+[&#10132; Back to About](/flow-about/)
+
+---
+
+<a href="https://brickmmo.com">
+<img src="https://brickmmo.com/images/brickmmo-logo-horizontal.jpg" width="100">
+</a>
